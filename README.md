@@ -54,3 +54,5 @@ Grey cells represent months where data is not available.
 ## 🙌 Feedback
 
 I would appreciate your feedback!
+
+![Heatmap](output/heatmap.png)
