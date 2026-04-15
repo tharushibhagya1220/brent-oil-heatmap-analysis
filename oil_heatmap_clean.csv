@@ -1,0 +1,88 @@
+month,conflict_phase,brent_crude_usd_barrel,Month_Name,Year,Phase_Order,Month_Order
+2019-01,Pre-Pandemic Baseline,63,Jan,2019,1,1
+2019-02,Pre-Pandemic Baseline,67.61,Feb,2019,1,2
+2019-03,Pre-Pandemic Baseline,65.86,Mar,2019,1,3
+2019-04,Pre-Pandemic Baseline,64.79,Apr,2019,1,4
+2019-05,Pre-Pandemic Baseline,61.25,May,2019,1,5
+2019-06,Pre-Pandemic Baseline,61.25,Jun,2019,1,6
+2019-07,Pre-Pandemic Baseline,60.46,Jul,2019,1,7
+2019-08,Pre-Pandemic Baseline,66.93,Aug,2019,1,8
+2019-09,Pre-Pandemic Baseline,64.81,Sep,2019,1,9
+2019-10,Pre-Pandemic Baseline,65.66,Oct,2019,1,10
+2019-11,Pre-Pandemic Baseline,60.16,Nov,2019,1,11
+2019-12,Pre-Pandemic Baseline,67.76,Dec,2019,1,12
+2020-01,Pre-Pandemic Baseline,66.66,Jan,2020,1,1
+2020-02,Pre-Pandemic Baseline,61.7,Feb,2020,1,2
+2020-03,COVID-19 Collapse,20.55,Mar,2020,2,3
+2020-04,COVID-19 Collapse,20.57,Apr,2020,2,4
+2020-05,COVID-19 Collapse,22.26,May,2020,2,5
+2020-06,COVID-19 Collapse,45.35,Jun,2020,2,6
+2020-07,COVID-19 Collapse,44.05,Jul,2020,2,7
+2020-08,COVID-19 Collapse,42.08,Aug,2020,2,8
+2020-09,COVID-19 Collapse,46.57,Sep,2020,2,9
+2020-10,COVID-19 Collapse,39.95,Oct,2020,2,10
+2020-11,COVID-19 Collapse,42.09,Nov,2020,2,11
+2020-12,COVID-19 Collapse,43.13,Dec,2020,2,12
+2021-01,COVID-19 Collapse,75.49,Jan,2021,2,1
+2021-02,COVID-19 Collapse,83.06,Feb,2021,2,2
+2021-03,COVID-19 Collapse,69.59,Mar,2021,2,3
+2021-04,COVID-19 Collapse,76.83,Apr,2021,2,4
+2021-05,COVID-19 Collapse,78.63,May,2021,2,5
+2021-06,Recovery & Surge,66.07,Jun,2021,3,6
+2021-07,Recovery & Surge,78.97,Jul,2021,3,7
+2021-08,Recovery & Surge,68.92,Aug,2021,3,8
+2021-09,Recovery & Surge,66.5,Sep,2021,3,9
+2021-10,Recovery & Surge,86.82,Oct,2021,3,10
+2021-11,Recovery & Surge,87.21,Nov,2021,3,11
+2021-12,Recovery & Surge,83.59,Dec,2021,3,12
+2022-01,Recovery & Surge,72.01,Jan,2022,3,1
+2022-02,Recovery & Surge,67.25,Feb,2022,3,2
+2022-03,Ukraine War Shock,117.58,Mar,2022,4,3
+2022-04,Ukraine War Shock,109.53,Apr,2022,4,4
+2022-05,Ukraine War Shock,99.03,May,2022,4,5
+2022-06,Ukraine War Shock,111.34,Jun,2022,4,6
+2022-07,Ukraine War Shock,80.69,Jul,2022,4,7
+2022-08,Ukraine War Shock,98.19,Aug,2022,4,8
+2022-09,Ukraine War Shock,85.18,Sep,2022,4,9
+2022-10,Ukraine War Shock,93.25,Oct,2022,4,10
+2022-11,Ukraine War Shock,86.23,Nov,2022,4,11
+2022-12,Ukraine War Shock,90.4,Dec,2022,4,12
+2023-01,Stabilisation,84.29,Jan,2023,5,1
+2023-02,Stabilisation,78.14,Feb,2023,5,2
+2023-03,Stabilisation,91.48,Mar,2023,5,3
+2023-04,Stabilisation,88.18,Apr,2023,5,4
+2023-05,Stabilisation,90.97,May,2023,5,5
+2023-06,Stabilisation,90.21,Jun,2023,5,6
+2023-07,Stabilisation,85.16,Jul,2023,5,7
+2023-08,Stabilisation,90.67,Aug,2023,5,8
+2023-09,Stabilisation,76.5,Sep,2023,5,9
+2023-10,Gaza-Israel Conflict,78.33,Oct,2023,6,10
+2023-11,Gaza-Israel Conflict,75.77,Nov,2023,6,11
+2023-12,Gaza-Israel Conflict,80.53,Dec,2023,6,12
+2024-01,Gaza-Israel Conflict,84.61,Jan,2024,6,1
+2024-02,Gaza-Israel Conflict,82.61,Feb,2024,6,2
+2024-03,Gaza-Israel Conflict,92.09,Mar,2024,6,3
+2024-04,Gaza-Israel Conflict,84.06,Apr,2024,6,4
+2024-05,Gaza-Israel Conflict,82.78,May,2024,6,5
+2024-06,Gaza-Israel Conflict,87.23,Jun,2024,6,6
+2024-07,Gaza-Israel Conflict,80.4,Jul,2024,6,7
+2024-08,Gaza-Israel Conflict,91.64,Aug,2024,6,8
+2024-09,Gaza-Israel Conflict,79.27,Sep,2024,6,9
+2024-10,Gaza-Israel Conflict,94.78,Oct,2024,6,10
+2024-11,Gaza-Israel Conflict,91.13,Nov,2024,6,11
+2024-12,Pre-Iran Escalation,81.38,Dec,2024,7,12
+2025-01,Pre-Iran Escalation,85.13,Jan,2025,7,1
+2025-02,Pre-Iran Escalation,103.76,Feb,2025,7,2
+2025-03,Pre-Iran Escalation,101.26,Mar,2025,7,3
+2025-04,Pre-Iran Escalation,101.77,Apr,2025,7,4
+2025-05,Pre-Iran Escalation,102.74,May,2025,7,5
+2025-06,Pre-Iran Escalation,86.7,Jun,2025,7,6
+2025-07,Pre-Iran Escalation,93.24,Jul,2025,7,7
+2025-08,Pre-Iran Escalation,87.66,Aug,2025,7,8
+2025-09,Pre-Iran Escalation,104.85,Sep,2025,7,9
+2025-10,Pre-Iran Escalation,99.34,Oct,2025,7,10
+2025-11,Pre-Iran Escalation,92.61,Nov,2025,7,11
+2025-12,US-Iran War Conflict,122.22,Dec,2025,8,12
+2026-01,US-Iran War Conflict,130.88,Jan,2026,8,1
+2026-02,US-Iran War Conflict,155.73,Feb,2026,8,2
+2026-03,US-Iran War Conflict,169.08,Mar,2026,8,3
